@@ -15,11 +15,11 @@
 ## Ngôn Ngữ : 
 [![Programming Languages](https://skillicons.dev/icons?i=ts,js,cs&perline=6)](#)
 
-## Code :
-[![Code Editors](https://skillicons.dev/icons?i=vscode,idea,visualstudio&perline=6)](#)
+## Phần Mềm Đang Dùng :
+[![Code Editors](https://skillicons.dev/icons?i=vscode,visualstudio&perline=6)](#)
 </div>
 
-# <p align=center> GitHub Stats Của Tôi </p>
+# <p align=center> GitHub Stats </p>
 
 <div align="center">
 <a href="https://github.com/AliOgOi"><img src="https://github-readme-stats.vercel.app/api?username=AliOgOi&theme=radical" /></a>
