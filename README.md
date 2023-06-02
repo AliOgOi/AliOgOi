@@ -4,7 +4,7 @@
 ✉️  Bạn Có Thể Liên Hệ Tại [Đây](mailto:ka2echit@gmail.com)\
 🧠  Tôi Đang Học Javascript, Python,  C++\
 🤝  Liên Hệ Với Tôi Tại (*´꒳`*)#2346\
-🫧  Nếu bạn muốn biết thêm, nhấp vào [Đây](https://example.com](https://aliogoi.github.io/) để đến web của tôi\
+🫧  Nếu bạn muốn biết thêm, nhấp vào [Đây](AliOgOi.git.io) để đến web của tôi\
  
 </div>
 
