@@ -13,7 +13,7 @@
 </div>
  
 ## Ngôn Ngữ : 
-[![Programming Languages](https://skillicons.dev/icons?i=ts,js,cs&perline=6)](#)
+[![Programming Languages](https://skillicons.dev/icons?i=js,c++&perline=6)](#)
 
 ## Phần Mềm Đang Dùng :
 [![Code Editors](https://skillicons.dev/icons?i=vscode,visualstudio&perline=6)](#)
