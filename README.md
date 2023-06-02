@@ -2,7 +2,7 @@
 <div align=center>
  
 ✉️  Bạn Có Thể Liên Hệ Tại [Đây](mailto:ka2echit@gmail.com)\
-🧠  Tôi Đang Học Javascript, Python,  C++\
+🧠  Tôi Đang Học Html , Js , Python ,  C++\
 🤝  Liên Hệ Với Tôi Tại (*´꒳`*)#2346\
 🫧  Nếu Bạn Muốn Biết Thêm , Nhấp Vào [Đây](https://aliogoi.github.io/) Để Đến Web Của Tôi
  
