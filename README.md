@@ -3,6 +3,7 @@
  
 ✉️  Bạn Có Thể Liên Hệ Tại [Đây](mailto:ka2echit@gmail.com)\
 🧠  Tôi Đang Học Javascript, Python,  C++\
+🤝  Liên Hệ Với Tôi Tại (*´꒳`*)#2346
  
 </div>
 
