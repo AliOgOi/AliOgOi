@@ -1,7 +1,7 @@
 # <p align=center>Xin chào!</p>
 <div align=center>
  
-✉️  Bạn Có Thể Liên Hệ Tại [AliOgOi.github.io](mailto:AliOgOi.github.io)\
+✉️  Bạn Có Thể Liên Hệ Tại [Đây](mailto:ka2echit@gmail.com)\
 🧠  Tôi Đang Học Javascript, Python,  C++\
  
 </div>
