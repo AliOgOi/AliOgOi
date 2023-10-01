@@ -1,7 +1,7 @@
 # <p align=center>Xin chào!</p>
 <div align=center>
  
-✉️  Bạn Có Thể Liên Hệ Tại [Đây](mailto:ka2echit@gmail.com)\
+✉️  Bạn Có Thể Liên Hệ Với Tôi Tại [Đây](mailto:nguyentien280820@gmail.com)\
 🧠  Tôi Đang Học Html , Js , Python ,  C++\
 🤝  Liên Hệ Với Tôi Tại (*´꒳`*)#2346\
 🫧  Nếu Bạn Muốn Biết Thêm , Nhấp Vào [Đây](https://aliogoi.github.io/) Để Đến Web Của Tôi
@@ -14,10 +14,10 @@
 
 </div>
  
-## Ngôn Ngữ : 
+## Ngôn Ngữ Lập Trình : 
 [![Programming Languages](https://skillicons.dev/icons?i=nodejs,js,cpp,bots,ai&perline=6)](#)
 
-## Phần Mềm Đang Dùng :
+## Phần Mềm Đang Sử Dụng :
 [![Code Editors](https://skillicons.dev/icons?i=vscode,visualstudio&perline=6)](#)
 </div>
 
