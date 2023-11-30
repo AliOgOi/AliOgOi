@@ -1,10 +1,10 @@
 # <p align=center>Xin chào!</p>
 <div align=center>
  
-✉️  Bạn Có Thể Liên Hệ Với Tôi Tại [Đây](mailto:nguyentien280820@gmail.com)\
-🧠  Tôi Đang Học Html , Js , Python ,  C++\
-🤝  Liên Hệ Với Tôi Tại (*´꒳`*)#2346\
-🫧  Nếu Bạn Muốn Biết Thêm , Nhấp Vào [Đây](https://aliogoi.github.io/) Để Đến Web Của Tôi
+/n ✉️  Bạn Có Thể Liên Hệ Với Tôi Tại [Đây](mailto:nguyentien280820@gmail.com)\
+/n 🧠  Tôi Đang Học Html , Js , Python ,  C++\
+/n 🤝  Liên Hệ Với Tôi Tại (*´꒳`*)#2346\
+/n 🫧  Nếu Bạn Muốn Biết Thêm , Nhấp Vào [Đây](https://aliogoi.github.io/) Để Đến Web Của Tôi
  
 </div>
 
